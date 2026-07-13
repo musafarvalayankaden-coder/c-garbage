@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Don't ignore directories
+!*/
+
+# Track only C source files
+!*.c
+
+# Keep these Git files
+!.gitignore
+!README.md
